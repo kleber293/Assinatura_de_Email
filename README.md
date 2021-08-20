@@ -37,7 +37,7 @@ Recomendo utilizar um compilador online, dado a sua simplicidade e facilidade co
 
 <img src="img/image-20210820121504661.png" alt="image-20210820121504661" style="zoom:122%;" />
 
-## Assinatura completa vermelho
+## Assinatura simples vermelho
 
 >   Nesta assinatura, você pode adicionar apenas informações com o texto e a barra de separação em vermelho 
 
